@@ -6,7 +6,7 @@ This is a repository that holds the materials from the introduction to github cl
 
 To download the slides try using the terminal as we discussed in class. First navigate to the location you want this folder to download, and then try the following command:
 
-        git clone https://github.com/sjfox/github_or_die_trying.git
+        $ git clone https://github.com/sjfox/github_or_die_trying.git
 
 # Contact
 
