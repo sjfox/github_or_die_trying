@@ -6,4 +6,4 @@ This is a repository that holds the materials from the introduction to github cl
 
 Please don't hesitate to reach out with any questions you have:
 - twitter ([@foxandtheflu](https://twitter.com/foxandtheflu))  
-- email [email](mailto: spncrfx@gmail.com)  
+- email [email](mailto:spncrfx@gmail.com)  
